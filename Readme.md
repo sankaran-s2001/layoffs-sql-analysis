@@ -127,28 +127,13 @@ This project shows I can:
 - ✅ Work with real business data to solve problems
 
 
-## 📞 Connect With Me
+## ✉️ Contact
 
-- **GitHub**: [sankaran-s2001](https://github.com/sankaran-s2001)
-- **Looking for**: Data Science opportunities
+**Sankaran S**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankaran-s2001)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankaran-s21/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankaran121101@gmail.com)
 
 ***
 
 *This project is part of my data science portfolio, showing my SQL skills and ability to work with real-world data.*
-
-**Last Updated**: September 2025
-
-***
-
-## 📝 Quick Setup Note
-
-Make sure your screenshots are saved in an `images/` folder in your repository with these names:
-
-- `top_companies.png`
-- `top_locations.png`
-- `top_industries.png`
-- `max_layoffs.png`
-- `complete_shutdowns.png`
-
-This README is now **beginner-friendly**, **short and crisp**, and will showcase your SQL project perfectly to potential employers!
-
