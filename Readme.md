@@ -49,19 +49,19 @@ This project takes messy, real-world layoffs data and cleans it up using SQL, th
 ## 📊 Key Findings
 
 ### 🏢 Top 5 Companies with Most Layoffs
-![output Screenshot](images/Top 5 companies by total layoffs.jpg)
+![output Screenshot](images/Top_5_companies_by_total_layoffs.jpg)
 
 ### 🌍 Top 5 Locations with Most Layoffs
-![output Screenshot](Top 5 locations by total layoffs.jpg)
+![output Screenshot](images/Top_5_locations_by_total_layoffs.jpg)
 
 ### 🏭 Top 5 Industries with Most Layoffs
-![output Screenshot](Top 5 industries by total layoffs.jpg)
+![output Screenshot](images/Top_5_industries_by_total_layoffs.jpg)
 
 ### 📈 Biggest Single Layoff Event
-![output Screenshot](Max single layoff.jpg)
+![output Screenshot](images/Max_single_layoff.jpg)
 
 ### 💔 Companies That Shut Down Completely (100% Layoffs)
-![output Screenshot](Companies with 100% layoffs.jpg)
+![output Screenshot](images/Companies_with_100%_layoffs.jpg)
 
 ## 🛠️ SQL Skills Used
 
