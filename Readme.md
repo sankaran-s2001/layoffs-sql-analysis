@@ -61,7 +61,7 @@ This project takes messy, real-world layoffs data and cleans it up using SQL, th
 ![output Screenshot](images/Max_single_layoff.jpg)
 
 ### 💔 Companies That Shut Down Completely (100% Layoffs)
-![output Screenshot](images/Companies_with_100%_layoffs.jpg)
+![output Screenshot](images/Companies_with_100_percentage_layoffs.jpg)
 
 ## 🛠️ SQL Skills Used
 
