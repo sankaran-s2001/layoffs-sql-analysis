@@ -49,7 +49,7 @@ This project takes messy, real-world layoffs data and cleans it up using SQL, th
 ## 📊 Key Findings
 
 ### 🏢 Top 5 Companies with Most Layoffs
-![output Screenshot](Top 5 companies by total layoffs.jpg)
+![output Screenshot](images/Top 5 companies by total layoffs.jpg)
 
 ### 🌍 Top 5 Locations with Most Layoffs
 ![output Screenshot](Top 5 locations by total layoffs.jpg)
