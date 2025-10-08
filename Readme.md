@@ -1,4 +1,4 @@
-# 📊 SQL Layoffs Data Analysis Project
+# 📊 SQL Layoffs Data Analysis 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
